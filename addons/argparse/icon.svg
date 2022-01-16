@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="16px"
+     inkscape:zoom="49.773737"
+     inkscape:cx="7.4637755"
+     inkscape:cy="7.825412"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       id="path956"
+       d="M 0, 0 4.25, 0 4.25, 4.25 0, 4.25 Z" />
+    <path
+       style="fill:#FFFFFF"
+       id="path1038"
+       d="M 0.5, 0.5 2.125, 2 0.5, 3.5 0.5, 3 1.625, 2 0.5, 1 Z"
+       inkscape:export-filename="C:\Users\Bryce Dixon\Documents\Godot\Plugin Development\ArgParse\addons\argparse\icon.png"
+       inkscape:export-xdpi="764.98822"
+       inkscape:export-ydpi="764.98822" />
+    <path
+       style="fill:#FFFFFF"
+       id="path1040"
+       d="M 2, 3.5 2, 3 4, 3 4, 3.5 Z" />
+  </g>
+</svg>
