@@ -2,7 +2,7 @@
 
 Command line argument and option parsing for the Godot game engine.
 
-![Usage badge](https://pluginstats.brycedixon.dev/badge/count?project=ArgParse)
+[![Usage badge](https://pluginstats.brycedixon.dev/badge/count?project=ArgParse)](#privacy-notice)
 
 ## Privacy Notice
 
